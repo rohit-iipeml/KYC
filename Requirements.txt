@@ -1,0 +1,12 @@
+Ultralytics
+Numpy
+opencv-python
+Pillow
+Torch
+Scikit-image
+FastAPI
+Pytesseract
+Uvicorn
+scikit-learn
+pydantic
+deepface
